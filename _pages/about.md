@@ -40,14 +40,16 @@ These days, I'm exploring how we share music with others, and building interacti
 
 #### Education
 
-- **2025 – Present** &nbsp;·&nbsp; **Georgia Institute of Technology**, Atlanta, GA, USA<br>
-  Ph.D. in Music Technology
-- **2022 – 2024** &nbsp;·&nbsp; **KAIST**, Daejeon, Republic of Korea<br>
-  M.S. in Culture Technology
-- **2017 – 2022** &nbsp;·&nbsp; **Seoul National University**, Seoul, Republic of Korea<br>
-  B.M. in Musicology (Minor in Psychology)
-- **2013 – 2016** &nbsp;·&nbsp; **Seoul Arts High School**, Seoul, Republic of Korea<br>
-  Major in Music Composition (Western Classical Music)
+<div style="display: grid; grid-template-columns: max-content 1fr; column-gap: 2em; row-gap: 0.9em; margin-top: 0.6em;">
+  <div><strong>2025 – Present</strong></div>
+  <div><strong>Georgia Institute of Technology</strong>, Atlanta, GA, USA<br>Ph.D. in Music Technology</div>
+  <div><strong>2022 – 2024</strong></div>
+  <div><strong>KAIST</strong>, Daejeon, Republic of Korea<br>M.S. in Culture Technology</div>
+  <div><strong>2017 – 2022</strong></div>
+  <div><strong>Seoul National University</strong>, Seoul, Republic of Korea<br>B.M. in Musicology (Minor in Psychology)</div>
+  <div><strong>2013 – 2016</strong></div>
+  <div><strong>Seoul Arts High School</strong>, Seoul, Republic of Korea<br>Major in Music Composition (Western Classical Music)</div>
+</div>
 
 <div style="height: 3rem;"></div>
 
@@ -55,10 +57,19 @@ These days, I'm exploring how we share music with others, and building interacti
 
 #### News
 
-- **2026.06.05** &nbsp;·&nbsp; **MUSICONNEX 2026** — paper accepted
-- **2026.05.10 – 16** &nbsp;·&nbsp; Presented our paper at **ICMC 2026** in Hamburg
-- **2026.04.27** &nbsp;·&nbsp; Received the **INNS Arts Achievement Award** (Georgia Tech Institute for Neuroscience, Neurotechnology, and Society)
-- **2026.04.17** &nbsp;·&nbsp; **SMPC 2026** — paper accepted
-- **2025.11.15** &nbsp;·&nbsp; Awarded the **Georgia Tech Music Technology Seed Grant**
-- **2025.09.01** &nbsp;·&nbsp; Started Ph.D. in Music Technology at **Georgia Tech (CCML)**
-- **2024.11.15** &nbsp;·&nbsp; Presented our paper at **ISMIR 2024** in San Francisco
+<div style="display: grid; grid-template-columns: max-content 1fr; column-gap: 2em; row-gap: 0.7em; margin-top: 0.6em;">
+  <div><strong>2026.06.05</strong></div>
+  <div><strong>MUSICONNEX 2026</strong> — paper accepted</div>
+  <div><strong>2026.05.10 – 16</strong></div>
+  <div>Presented our paper at <strong>ICMC 2026</strong> in Hamburg</div>
+  <div><strong>2026.04.27</strong></div>
+  <div>Received the <strong>INNS Arts Achievement Award</strong> (Georgia Tech Institute for Neuroscience, Neurotechnology, and Society)</div>
+  <div><strong>2026.04.17</strong></div>
+  <div><strong>SMPC 2026</strong> — paper accepted</div>
+  <div><strong>2025.11.15</strong></div>
+  <div>Awarded the <strong>Georgia Tech Music Technology Seed Grant</strong></div>
+  <div><strong>2025.09.01</strong></div>
+  <div>Started Ph.D. in Music Technology at <strong>Georgia Tech (CCML)</strong></div>
+  <div><strong>2024.11.15</strong></div>
+  <div>Presented our paper at <strong>ISMIR 2024</strong> in San Francisco</div>
+</div>
