@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: First-Year PhD Student, <a href='https://ccml.gtcmt.gatech.edu/' target='_blank'>Computational and Cognitive Musicology Lab (CCML)</a>, Georgia Tech.
+subtitle: Second-Year PhD Student, <a href='https://ccml.gtcmt.gatech.edu/' target='_blank'>Computational and Cognitive Musicology Lab (CCML)</a>, Georgia Tech.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>Georgia Institute of Technology</p>
     <p>Atlanta, GA, USA</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -22,20 +22,20 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
 
 Hi, all 👋
 
-I am a first-year PhD student in **Music Technology** at **Georgia Tech**, in the [Computational and Cognitive Musicology Lab (CCML)](https://ccml.gtcmt.gatech.edu/).
+I am a second-year PhD student in **Music Technology** at **Georgia Tech**, in the [Computational and Cognitive Musicology Lab (CCML)](https://ccml.gtcmt.gatech.edu/).
 
-My primary research focus is on **music and the communication of emotion**. I'm fascinated by how music influences our brains and bodies, evoking emotional responses.
+My primary research focus is on **musical interaction and emotion**. I'm fascinated by how music brings people together, and I study it through the lens of cognitive science and neuroscience.
 
-Ultimately, my goal is to use this research to help people through music. By enhancing our understanding of emotional responses in music, I aim to contribute new ways to support emotional well-being.
+These days, I'm exploring how we share music with others, and building interactive performances that connect an audience in real-time using their own biosignals. Through this, I hope to find novel ways to bring people closer together through music.
 
----
+<div style="height: 4rem;"></div>
 
 #### Education
 
