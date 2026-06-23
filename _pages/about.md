@@ -41,7 +41,7 @@ These days, I'm exploring how we share music with others, and building interacti
   <div><strong>2025 – Present</strong></div>
   <div><strong>Georgia Institute of Technology</strong>, Atlanta, GA, USA<br>Ph.D. in Music Technology</div>
   <div><strong>2022 – 2024</strong></div>
-  <div><strong>KAIST</strong>, Daejeon, Republic of Korea<br>M.S. in Culture Technology<br><em>Thesis: Shared empathic process in music and social contexts: Exploring empathic accuracy and physiological responses across modalities and valence</em></div>
+  <div><strong>KAIST</strong>, Daejeon, Republic of Korea<br>M.S. in Culture Technology<br><span class="thesis">Thesis&nbsp;|&nbsp;Shared empathic process in music and social contexts: Exploring empathic accuracy and physiological responses across modalities and valence</span></div>
   <div><strong>2017 – 2022</strong></div>
   <div><strong>Seoul National University</strong>, Seoul, Republic of Korea<br>B.M. in Musicology (Minor in Psychology)</div>
   <div><strong>2013 – 2016</strong></div>

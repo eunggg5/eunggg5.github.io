@@ -1,8 +1,14 @@
 <style>
-  /* Start the name lower: whitespace above it equals one name-font-size
-     (1em is relative to the title's own size, so it scales responsively) */
-  .post-title {
-    margin-top: 1em !important;
+  /* Push the name well below the top nav.
+     Uses padding (not margin) so it can't collapse into the container margin. */
+  .post-header {
+    padding-top: 4rem !important;
+  }
+
+  /* M.S. thesis line: smaller, lighter, no quotes */
+  .thesis {
+    font-size: 0.82em;
+    color: var(--global-text-color-light);
   }
 
   /* Cap profile photo height so it stays within the greeting section */
