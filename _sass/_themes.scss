@@ -7,6 +7,17 @@
   margin-left: 1.1rem;
 }
 
+/* Page titles (incl. the name on the home page) use the accent color */
+.post-title {
+  color: var(--global-theme-color) !important;
+}
+
+/* Consistent top gap from the nav across every page (home, news, publication,
+   project, CV). Padding (not margin) so it can't collapse into the container. */
+.post-header {
+  padding-top: 4rem !important;
+}
+
 :root {
   color-scheme: light;
   --global-bg-color: #fff;

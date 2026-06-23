@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: publication
-description: peer-reviewed publications and conference presentations, in reverse chronological order.
 nav: true
 nav_order: 2
 ---
