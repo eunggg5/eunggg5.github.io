@@ -1,11 +1,9 @@
 ---
 layout: page
-title: project
+title: performances
 permalink: /projects/
-description: performances and creative works exploring music, brain, and emotion.
 nav: true
 nav_order: 4
-display_categories: [performance]
 horizontal: false
 ---
 

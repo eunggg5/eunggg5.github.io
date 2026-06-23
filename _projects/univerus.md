@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "UNIVER:US"
-description: 카이스트×대전예당 공연실험실 [X-Space] #2 — a brainwave visualization performance exploring musical emotion and synchronization
+description: KAIST × Daejeon Arts Center Performance Lab [X-Space] #2 — a brainwave visualization performance exploring musical emotion and synchronization
 img: assets/img/univerus.jpg
-importance: 1
+importance: 2
 category: performance
 giscus_comments: false
 date: 2024-09-28
@@ -18,8 +18,8 @@ The piece demonstrates the phenomenon of **brainwave synchronization** — when 
 
 **Collaborators:** KAIST Music and Brain Lab, Daejeon Arts Center
 
-<div class="row mt-4">
-  <div class="col-sm">
-    {% include video.liquid path="https://www.youtube.com/embed/cW-V-YP1g30" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center mt-4">
+  <div class="col-12 col-lg-11">
+    {% include video.liquid path="https://www.youtube.com/embed/cW-V-YP1g30" class="img-fluid rounded z-depth-1 w-100" %}
   </div>
 </div>
