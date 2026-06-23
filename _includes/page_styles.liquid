@@ -1,0 +1,44 @@
+<style>
+  /* Cap profile photo height so it stays within the greeting section */
+  .profile img,
+  .profile-img,
+  .clickable {
+    max-height: 320px !important;
+    width: auto !important;
+    margin-left: auto;
+    display: block;
+  }
+
+  /* Section headers (Education, News) */
+  .home-section-header {
+    font-weight: 700;
+    margin-top: 2.5rem;
+    margin-bottom: 1.6rem;
+    font-size: 1.4rem;
+    letter-spacing: -0.01em;
+  }
+
+  /* Thinner divider with breathing room above */
+  hr.section-divider {
+    margin-top: 5rem;
+    margin-bottom: 0;
+    border: 0;
+    border-top: 1px solid currentColor;
+    opacity: 0.25;
+  }
+
+  /* Date-aligned grid for Education + News */
+  .info-grid {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    column-gap: 2em;
+    row-gap: 1.4em;
+    margin-top: 0.6em;
+  }
+
+  /* "See all" link below truncated News */
+  .more-link {
+    margin-top: 1.8rem;
+    font-size: 0.95rem;
+  }
+</style>

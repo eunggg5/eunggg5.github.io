@@ -1,0 +1,24 @@
+# News items shown on the home page (top 5) and the /news/ page (all).
+# To add a new entry: add it at the TOP (entries are shown newest first).
+# Use <strong>...</strong> for bold within content.
+
+- date: "2026.06.05"
+  content: "<strong>MUSICONNEX 2026</strong> — paper accepted"
+
+- date: "2026.05.10 – 16"
+  content: "Presented our paper at <strong>ICMC 2026</strong> in Hamburg"
+
+- date: "2026.04.27"
+  content: "Received the <strong>INNS Arts Achievement Award</strong> (Georgia Tech Institute for Neuroscience, Neurotechnology, and Society)"
+
+- date: "2026.04.17"
+  content: "<strong>SMPC 2026</strong> — paper accepted"
+
+- date: "2025.11.15"
+  content: "Awarded the <strong>Georgia Tech Music Technology Seed Grant</strong>"
+
+- date: "2025.09.01"
+  content: "Started Ph.D. in Music Technology at <strong>Georgia Tech (CCML)</strong>"
+
+- date: "2024.11.15"
+  content: "Presented our paper at <strong>ISMIR 2024</strong> in San Francisco"

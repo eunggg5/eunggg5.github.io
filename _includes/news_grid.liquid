@@ -1,0 +1,10 @@
+<div class="info-grid">
+{% assign news_items = site.data.news %}
+{% if include.limit %}
+  {% assign news_items = news_items | slice: 0, include.limit %}
+{% endif %}
+{% for item in news_items %}
+  <div><strong>{{ item.date }}</strong></div>
+  <div>{{ item.content }}</div>
+{% endfor %}
+</div>
