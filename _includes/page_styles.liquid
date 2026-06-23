@@ -1,4 +1,20 @@
 <style>
+  /* --- Always-fresh accent overrides ---
+     The theme's main.css is served with a static cache-bust hash, so browsers
+     keep the old cached copy. Redefining the accent variables (and the page
+     title color) inline here guarantees the green renders on every visit. */
+  :root {
+    --global-theme-color: #245c4e;
+    --global-hover-color: #245c4e;
+  }
+  html[data-theme="dark"] {
+    --global-theme-color: #5fae97;
+    --global-hover-color: #5fae97;
+  }
+  .post-title {
+    color: var(--global-theme-color) !important;
+  }
+
   /* M.S. thesis line: smaller, lighter, no quotes */
   .thesis {
     font-size: 0.82em;
