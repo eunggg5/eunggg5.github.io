@@ -1,0 +1,11 @@
+# Social media links shown in the about page footer.
+# Comment out / remove any you don't want displayed.
+cv_pdf: /assets/pdf/EunjiOh_CV.pdf # path to your CV PDF — replace this file in assets/pdf/
+email: eoh61@gatech.edu
+linkedin_username: eunggg5
+rss_icon: true
+# Uncomment and fill in once you have these accounts:
+# github_username: eunggg5
+# scholar_userid: # your Google Scholar ID (the bit after ?user= in the URL)
+# orcid_id: 0000-0000-0000-0000
+# twitter_username: your-twitter-handle
