@@ -1,27 +1,28 @@
 # News items shown on the home page (top 5) and the /news/ page (all).
 # To add a new entry: add it at the TOP (entries are shown newest first).
+# Dates are written in US format (e.g., "Jun 5, 2026").
 # Use <strong>...</strong> for bold within content.
 
-- date: "2026.06.05"
-  content: "<strong>MUSICONNEX 2026</strong> — abstract accepted! 🎉"
+- date: "Jun 5, 2026"
+  content: "<strong>MUSICONNEX 2026</strong> — abstract accepted"
 
-- date: "2026.05.10 – 16"
-  content: "Presented our paper at <strong>ICMC 2026</strong> in Hamburg"
+- date: "May 10–16, 2026"
+  content: "Presented at <strong>ICMC 2026</strong>, Hamburg"
 
-- date: "2026.05.02"
-  content: "Performed my <strong>GTCMT Seed Grant</strong> concert 『PRISM pt.1: Sound Through New Lens』 🎶"
+- date: "May 2, 2026"
+  content: "Premiered 『<strong>PRISM pt.1: Sound Through New Lens</strong>』, my GTCMT Seed Grant concert"
 
-- date: "2026.04.27"
-  content: "Received the <strong>INNS Arts Achievement Award</strong> ($500 prize) — Georgia Tech Institute for Neuroscience, Neurotechnology, and Society"
+- date: "Apr 27, 2026"
+  content: "Won the <strong>INNS Arts Achievement Award</strong> ($500)"
 
-- date: "2026.04.17"
-  content: "<strong>SMPC 2026</strong> — abstract accepted! 🎉"
+- date: "Apr 17, 2026"
+  content: "<strong>SMPC 2026</strong> — abstract accepted"
 
-- date: "2025.11.15"
-  content: "Awarded the <strong>GTCMT Seed Grant</strong> ($2,000 stipend) 🏆"
+- date: "Nov 15, 2025"
+  content: "Awarded the <strong>GTCMT Seed Grant</strong> ($2,000)"
 
-- date: "2025.09.01"
-  content: "Started Ph.D. in Music Technology at <strong>Georgia Tech (CCML)</strong>"
+- date: "Sep 1, 2025"
+  content: "Began my <strong>Ph.D. at Georgia Tech (CCML)</strong>"
 
-- date: "2024.11.15"
-  content: "Presented our paper at <strong>ISMIR 2024</strong> in San Francisco"
+- date: "Nov 15, 2024"
+  content: "Presented at <strong>ISMIR 2024</strong>, San Francisco"

@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: conference overview
-nav: true
+nav: false
 nav_order: 3
 pagination:
   enabled: true
