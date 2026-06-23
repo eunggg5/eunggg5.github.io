@@ -1,6 +1,6 @@
 /* Local override of al_folio_core _themes.scss
-   Only change vs. the theme default: accent color (was #b509ac purple) -> #000080 navy.
-   Dark mode uses a lightened navy so links stay readable on dark backgrounds. */
+   Only change vs. the theme default: accent color (was #b509ac purple) -> #245C4E (dark teal).
+   Dark mode uses a lightened teal so links stay readable on dark backgrounds. */
 
 /* Give the light/dark toggle more breathing room to the right of the CV link */
 .toggle-container {
@@ -10,11 +10,11 @@
 :root {
   color-scheme: light;
   --global-bg-color: #fff;
-  --global-code-bg-color: rgba(0, 0, 128, 0.05);
+  --global-code-bg-color: rgba(36, 92, 78, 0.05);
   --global-text-color: #000;
   --global-text-color-light: #828282;
-  --global-theme-color: #000080;
-  --global-hover-color: #000080;
+  --global-theme-color: #245c4e;
+  --global-hover-color: #245c4e;
   --global-hover-text-color: #fff;
   --global-footer-bg-color: #1c1c1d;
   --global-footer-text-color: #e8e8e8;
@@ -47,8 +47,8 @@ html[data-theme="dark"] {
   --global-code-bg-color: #2c3237;
   --global-text-color: #e8e8e8;
   --global-text-color-light: #828282;
-  --global-theme-color: #7d9cff;
-  --global-hover-color: #7d9cff;
+  --global-theme-color: #5fae97;
+  --global-hover-color: #5fae97;
   --global-hover-text-color: #fff;
   --global-footer-bg-color: #e8e8e8;
   --global-footer-text-color: #1c1c1d;
