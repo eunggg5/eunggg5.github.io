@@ -9,14 +9,16 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <style>
-  /* Widen the text column: by default each entry uses only 8 of 12 grid
-     columns, leaving the right third empty. Give the text the full
-     remaining width (badge stays in its column on the left). */
-  @media (min-width: 576px) {
-    .publications .bibliography .col-sm-8 {
-      flex: 0 0 83.333%;
-      max-width: 83.333%;
-    }
+  /* Drop the left badge column entirely — every entry already lists the full
+     official venue/journal name in its citation line, and the list is grouped
+     by year — then let the text use the full width. This removes the empty
+     badge that journals would otherwise show. */
+  .publications .bibliography .abbr {
+    display: none;
+  }
+  .publications .bibliography .col-sm-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
   }
 </style>
 
