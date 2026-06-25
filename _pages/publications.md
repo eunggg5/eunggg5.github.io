@@ -9,27 +9,19 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <style>
-  /* Type-section headings (Journal Articles / Conference Papers / Conference Presentations) */
-  .bib-section {
-    color: var(--global-theme-color);
-    font-weight: 700;
-    font-size: 1.4rem;
-    letter-spacing: -0.01em;
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
+  /* Widen the text column: by default each entry uses only 8 of 12 grid
+     columns, leaving the right third empty. Give the text the full
+     remaining width (badge stays in its column on the left). */
+  @media (min-width: 576px) {
+    .publications .bibliography .col-sm-8 {
+      flex: 0 0 83.333%;
+      max-width: 83.333%;
+    }
   }
-  .bib-section:first-of-type { margin-top: 0.5rem; }
 </style>
 
 <div class="publications">
 
-<h2 class="bib-section">Journal Articles</h2>
-{% bibliography --query @*[pub_type=journal] %}
-
-<h2 class="bib-section">Conference Papers</h2>
-{% bibliography --query @*[pub_type=paper] %}
-
-<h2 class="bib-section">Conference Presentations</h2>
-{% bibliography --query @*[pub_type=talk] %}
+{% bibliography %}
 
 </div>
