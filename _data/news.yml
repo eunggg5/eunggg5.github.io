@@ -3,6 +3,12 @@
 # Dates are written in US format (e.g., "Jun 5, 2026").
 # Use <strong>...</strong> for bold within content.
 
+- date: "Sep 8, 2026"
+  content: "<strong>ISMIR 2026</strong> — LBD accepted"
+
+- date: "July 22–24, 2026"
+  content: "Presented poster at <strong>SMPC 2026</strong>, Chicago 🎤"
+
 - date: "Jun 5, 2026"
   content: "<strong>MUSICONNEX 2026</strong> — abstract accepted"
 
