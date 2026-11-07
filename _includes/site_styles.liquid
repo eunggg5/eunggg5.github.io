@@ -1,0 +1,91 @@
+<style>
+  /* Site-wide overrides. Inline for the same reason as page_styles.liquid:
+     main.css keeps a static cache-bust hash, so browsers hold on to old copies.
+     Included from header.liquid, so it applies to every page. */
+
+  /* Menu, name and page headers in capitals */
+  .navbar-brand,
+  .navbar-nav .nav-link,
+  .navbar .dropdown-item,
+  .post-title,
+  .home-section-header,
+  .card-title {
+    text-transform: uppercase;
+  }
+
+  /* The build's CSS minifier mangles var(--spacing) in .fixed-top, so the navbar
+     loses its offsets and shrinks to its content. Restore them here. The height
+     matches the 57px body padding, including on the home page's phone layout. */
+  .navbar.fixed-top {
+    top: 0;
+    right: 0;
+    left: 0;
+    min-height: 57px;
+  }
+
+  /* Light/dark toggle pinned to the top-right corner of the screen */
+  .navbar .toggle-container {
+    position: fixed;
+    top: 0.75rem;
+    right: 1rem;
+    margin-left: 0;
+    z-index: 1040;
+  }
+  .navbar #light-toggle {
+    transform: none;
+  }
+
+  /* Keep the menu clear of the toggle once the page gets close to the content width */
+  @media (max-width: 1100px) {
+    .navbar > .container {
+      padding-right: 3rem;
+    }
+  }
+
+  /* Show only the icon for the current mode (dropped by the local _themes.scss) */
+  #light-toggle-dark,
+  #light-toggle-light {
+    display: none;
+  }
+  html[data-theme-setting="dark"] #light-toggle-system,
+  html[data-theme-setting="light"] #light-toggle-system {
+    display: none;
+  }
+  html[data-theme-setting="dark"] #light-toggle-dark,
+  html[data-theme-setting="light"] #light-toggle-light {
+    display: inline-block;
+  }
+
+  /* "System" mode icon: half moon, half sun */
+  .fa-half-sun-moon {
+    position: relative;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    --fa-font: var(--fa-font-solid);
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .fa-half-sun-moon::before,
+  .fa-half-sun-moon::after {
+    position: absolute;
+    inset: 0;
+    text-align: center;
+    line-height: 1em;
+    font: var(--fa-font);
+    color: var(--global-text-color);
+  }
+  .fa-half-sun-moon::before {
+    content: "\f111";
+    clip-path: polygon(0 0, 48% 0, 48% 100%, 0 100%);
+  }
+  .fa-half-sun-moon::after {
+    content: "\f185";
+    clip-path: polygon(52% 0, 100% 0, 100% 100%, 52% 100%);
+  }
+  #light-toggle:hover .fa-half-sun-moon::before,
+  #light-toggle:hover .fa-half-sun-moon::after {
+    color: var(--global-theme-color);
+  }
+</style>

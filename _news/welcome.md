@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started Ph.D. in Music Technology at Georgia Tech 🎶
+Started Ph.D. in Music Technology at Georgia Tech

@@ -2,11 +2,6 @@
    Only change vs. the theme default: accent color (was #b509ac purple) -> #245C4E (dark teal).
    Dark mode uses a lightened teal so links stay readable on dark backgrounds. */
 
-/* Give the light/dark toggle more breathing room to the right of the CV link */
-.toggle-container {
-  margin-left: 1.1rem;
-}
-
 /* Page titles (incl. the name on the home page) use the accent color */
 .post-title {
   color: var(--global-theme-color) !important;
