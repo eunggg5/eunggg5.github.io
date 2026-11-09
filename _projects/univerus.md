@@ -3,7 +3,7 @@ layout: page
 title: "UNIVER:US"
 description: KAIST × Daejeon Arts Center Performance Lab [X-Space] #2 — a brainwave visualization performance exploring musical emotion and synchronization
 img: assets/img/univerus.jpg
-importance: 2
+importance: 3
 category: performance
 giscus_comments: false
 date: 2024-09-28

@@ -3,7 +3,7 @@ layout: page
 title: "Bio Sing-Along"
 description: GTCMT Seed Grant project — turning listeners' biosignals into a live musical dialogue with the performer
 img: assets/img/bio-sing-along.png
-importance: 1
+importance: 2
 category: performance
 giscus_comments: false
 date: 2026-05-02
