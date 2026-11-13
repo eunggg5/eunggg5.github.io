@@ -29,9 +29,11 @@ Hi, all 👋
 
 I am a second-year PhD student in **Music Technology** at **Georgia Tech**, in the [Computational and Cognitive Musicology Lab (CCML)](https://ccml.gtcmt.gatech.edu/).
 
-My primary research focus is on **musical interaction and emotion**. I'm fascinated by how music brings people together, and I study it through the lens of cognitive science and neuroscience.
+I study **why music feels rewarding**, and how emotion and mood shape that experience, through the lens of cognitive science and computational modeling.
 
-These days, I'm exploring how we share music with others, and building interactive performances that connect an audience in real-time using their own biosignals. Through this, I hope to find novel ways to bring people closer together through music.
+These days, I’m exploring why the same piece of music can delight one listener and leave another cold: how each of us weighs different aspects of music to decide what we like, and how those personal values shape the way we engage with music.
+
+In the long run, I hope to understand how music regulates our mood, and to find new ways music can support well-being and mental health.
 
 <hr class="section-divider">
 
