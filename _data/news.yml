@@ -3,13 +3,19 @@
 # Dates are written in US format (e.g., "Jun 5, 2026").
 # Use <strong>...</strong> for bold within content.
 
+- date: "Nov 8–12, 2026"
+  content: "Presented a Late-Breaking Demo at <strong>ISMIR 2026</strong>, Abu Dhabi, UAE"
+
 - date: "Oct 3, 2026"
   content: "Performed a graphic score piece with the Technology Ensemble at <strong>SITE Festival</strong>, The Goat Farm, Atlanta"
+
+- date: "Sep 22–24, 2026"
+  content: "Presented poster at <strong>MUSICONNEX 2026</strong>, Jyväskylä, Finland"
 
 - date: "Sep 8, 2026"
   content: "<strong>ISMIR 2026</strong> — LBD accepted"
 
-- date: "July 22–24, 2026"
+- date: "Jul 22–24, 2026"
   content: "Presented poster at <strong>SMPC 2026</strong>, Evanston"
 
 - date: "Jun 5, 2026"
@@ -19,7 +25,7 @@
   content: "Presented at <strong>ICMC 2026</strong>, Hamburg, Germany"
 
 - date: "May 2, 2026"
-  content: "Performed <strong>Bio Sing-Along</strong> (GTCMT Seed Grant project) at 『PRISM pt.1: Sound Through New Lens』"
+  content: "Performed <strong>Bio Sing-Along</strong> (GTCMT Seed Grant project) at 『PRISM Pt. 1 — Sound through a New Lens』"
 
 - date: "Apr 27, 2026"
   content: "Won the <strong>INNS Arts Achievement Award</strong> ($500)"
